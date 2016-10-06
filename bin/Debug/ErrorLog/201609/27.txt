@@ -1,0 +1,13 @@
+****************************异常文本****************************
+【出现时间】：2016/9/27 9:11:27
+【异常类型】：SEHException
+【异常信息】：外部组件发生异常。
+【堆栈调用】：   在 WaterMoney.Card.InitRYProc(Int32 nType)
+   在 WaterMoney.Form1.CZ() 位置 E:\Project\深州水控加钱软件\WaterMoney\WaterMoney\Form1.cs:行号 78
+   在 System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
+***************************************************************
+
